@@ -436,7 +436,11 @@ The project includes a **2 minute walkthrough video** demonstrating:
 - Provider State Management
 - Firebase Authentication
 - Firestore Integration
-  "C:\Users\DELL\Downloads\WhatsApp Video 2026-07-08 at 8.47.19 PM.mp4"
+  
+
+https://github.com/user-attachments/assets/b2bb8bbe-043a-4919-93ed-c61cfe16ab34
+
+
 
 ---
 
