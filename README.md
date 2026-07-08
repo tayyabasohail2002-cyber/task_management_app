@@ -424,7 +424,7 @@ The application has been tested for
 
 # 📹 Project Demonstration
 
-The project includes a **4–5 minute walkthrough video** demonstrating:
+The project includes a **2 minute walkthrough video** demonstrating:
 
 - User Registration
 - User Login
@@ -436,6 +436,7 @@ The project includes a **4–5 minute walkthrough video** demonstrating:
 - Provider State Management
 - Firebase Authentication
 - Firestore Integration
+  "C:\Users\DELL\Downloads\WhatsApp Video 2026-07-08 at 8.47.19 PM.mp4"
 
 ---
 
